@@ -6,9 +6,9 @@ import {createStyles, makeStyles} from "@material-ui/core/styles";
 const useStyles = makeStyles(() =>
     createStyles({
         "chats": {
-            height: "400px",
-            padding: "0",
-            overflow: "auto"
+            height: 400,
+            padding: '0',
+            overflow: 'auto'
         }
     }),
 );
